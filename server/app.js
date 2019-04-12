@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 3000
+const port = 4000
 const RecordManager = require('./recordManager')
 const bodyParser = require('body-parser')
 const fs = require('fs');
@@ -79,7 +79,7 @@ app.post('/fetch',(req,res,next)=>{
 		throw new Error("sid is mandatory");
 	}
 	console.log(sid);
-	fs.readdir(`/home/ubuntu/AgoraIO/Basic-Recording/Agora-Restful-Recording-Nodejs/server/output/${sid}`,function(err,files){
+	fs.readdir(`/root/Dev/tempForRakuten/server/output/${sid}`,function(err,files){
 		console.log(err,files);
 		if(err){
 			res.status(404).json({sid, state: 'this_sid_has_no_mp4',err:err});

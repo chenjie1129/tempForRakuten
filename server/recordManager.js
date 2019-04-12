@@ -377,7 +377,7 @@ var Options = awsCli.Options;
       // do aws uploading
 var Aws = awsCli.Aws;      
 var aws = new Aws(options);
-      var syncCommand = `s3 sync /home/ubuntu/AgoraIO/Basic-Recording/Agora-Restful-Recording-Nodejs/server/output/${sid} s3://rakuten.livestreaming.stg2/livestreamrecord/static/${sid}`;
+      var syncCommand = `s3 sync /root/Dev/tempForRakuten/server/output/${sid} s3://rakuten.livestreaming.stg2/livestreamrecord/static/${sid}`;
       aws.command(syncCommand).then(function(data) {
         // upload successfully
         console.log('Succeed', data)
@@ -387,7 +387,7 @@ var aws = new Aws(options);
 
             // do record sid for deletion
             try {
-                fs.appendFileSync(`/home/ubuntu/AgoraIO/Basic-Recording/Agora-Restful-Recording-Nodejs/server/output/${sid}/readyToDelete.txt`, `${timestamp},${sid}\n`);
+                fs.appendFileSync(`/root/Dev/tempForRakuten/server/output/${sid}/readyToDelete.txt`, `${timestamp},${sid}\n`);
                 console.log(`releasing ${sid}`);
               } catch (err) {
                 console.error(err)

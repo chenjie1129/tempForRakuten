@@ -1,0 +1,366 @@
+Local Date: Fri Apr 12 10:56:19 2019
+Build info: Mar 27 2019 11:15:53 ?
+
+INFO    (10:56:19: 42 |    1)   4672; [rp] {"rtc.video.mute_me":true,"che.video.local.send":false}
+INFO    (10:56:19: 42 |    0)   4672; [rp] {"rtc.audio.mute_me":true,"che.audio.mute_me":true}
+INFO    (10:56:19: 42 |    0)   4672; [rp] {"rtc.video.set_remote_default_video_stream_type":0}
+INFO    (10:56:19: 42 |    0)   4672; API call to SetRemoteDefaultVideoStreamType: 0
+INFO    (10:56:19: 42 |    0)   4672; [rp] {"che.video.local.camera_index":1024}
+INFO    (10:56:19: 42 |    0)   4672; [rp] {"rtc.video.enabled":true}
+INFO    (10:56:19: 42 |    0)   4672; API call to enable video
+INFO    (10:56:19: 42 |    0)   4672; [rp] {"che.video.recording":false}
+INFO    (10:56:19: 42 |    0)   4672; ***CALL BEGIN: appid:'72****************************d1' cname:'111111' info:'' sid:'75FA6DCC585C45A7A938D65FC24A44F9'
+INFO    (10:56:19: 42 |    0)   4672; addRef of media engine, ref=1
+INFO    (10:56:19: 42 |    0)   4672; [che] create chat engine, ctx:(nil)
+INFO    (10:56:19: 42 |    0)   4672; [MYDEBUG] large group call false
+INFO    (10:56:19: 42 |    0)   4672; ChatEngineParameterHelper::applyMediaEngineMode: 
+INFO    (10:56:19: 42 |    0)   4672; applyMediaEngineMode(): Hardware encoding false Hardware decoding false
+INFO    (10:56:19: 42 |    0)   4672; engine git commit version:6e2efc0 and branch:(detached
+INFO    (10:56:19: 43 |    1)   4672; audio jitterbuffer new smooth
+INFO    (10:56:19: 43 |    0)   4678; Thread with name:external_audio_module_thread started 
+INFO    (10:56:19: 43 |    0)   4679; Thread with name:WebRtc_event_timer_thread started 
+INFO    (10:56:19: 43 |    0)   4672; StereoPlayoutIsAvailable(), output: available=0
+INFO    (10:56:19: 43 |    0)   4672; StereoRecordingIsAvailable(), output: available=0
+INFO    (10:56:19: 43 |    0)   4680; Thread with name:EngineMonitorThread started 
+INFO    (10:56:19: 43 |    0)   4672; setMuteStatus, muted: On
+INFO    (10:56:19: 43 |    0)   4672; setMuteOutput, muted: false
+INFO    (10:56:19: 44 |    1)   4672; Audio Engine Init success
+INFO    (10:56:19: 44 |    0)   4672; Available number of cores:1
+INFO    (10:56:19: 44 |    0)   4672; PipelineManager::SetDest  engine = 0x7f41b0142570
+INFO    (10:56:19: 44 |    0)   4672; CreateVideoSendTrack
+INFO    (10:56:19: 44 |    0)   4672; init: feature prerotation disabled
+INFO    (10:56:19: 44 |    0)   4672; Agora Engine video codec set to standard mode role mode 3
+INFO    (10:56:19: 44 |    0)   4672; Agora Engine video codec index 1
+INFO    (10:56:19: 44 |    0)   4672; Agora Engine video stream type = 0
+INFO    (10:56:19: 45 |    1)   4681; Thread with name:VideoEncodeThread started 
+INFO    (10:56:19: 45 |    0)   4672; Device type: 0
+INFO    (10:56:19: 45 |    0)   4672; last unique frame idx: -1 - -1
+INFO    (10:56:19: 45 |    0)   4672; Device type: 0
+INFO    (10:56:19: 45 |    0)   4672; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+INFO    (10:56:19: 45 |    0)   4672; low bit rate limit 0
+INFO    (10:56:19: 45 |    0)   4672; dont need to increase unique frame idx
+INFO    (10:56:19: 45 |    0)   4672; the init unique frame idx: -1 - -1
+INFO    (10:56:19: 45 |    0)   4682; Thread with name:VideoProcessThread started 
+INFO    (10:56:19: 45 |    0)   4672; setCodec: index=1 width=640 height=360 framerate=15
+INFO    (10:56:19: 45 |    0)   4672; setCodec: Intra Request = 0
+INFO    (10:56:19: 45 |    0)   4672; h264WebInteropEnable: enable 0
+INFO    (10:56:19: 45 |    0)   4672; setCaptureDevice: index=1024
+INFO    (10:56:19: 45 |    0)   4672; setMaxVideoBitrate: max bitrate=0
+INFO    (10:56:19: 45 |    0)   4672; video fec method 1
+INFO    (10:56:19: 45 |    0)   4672; dynamic sending rate control enabled 0.
+
+INFO    (10:56:19: 45 |    0)   4672; videoEngine created and initialize here
+INFO    (10:56:19: 45 |    0)   4672; CreateVideoSendTrack
+INFO    (10:56:19: 45 |    0)   4672; [MIO] updateCapturer: ((nil)), type:(1)
+INFO    (10:56:19: 45 |    0)   4672; CreateAgoraDefaultCapture: type=0
+INFO    (10:56:19: 46 |    1)   4672; VideoSendTrackImpl::UpdateCapturer capturer=0x7f41b01607c0
+INFO    (10:56:19: 46 |    0)   4672; CreateVideoCapturer: interface=0x7f41b01607c0
+INFO    (10:56:19: 46 |    0)   4672; [MIO] updateLocalRender: ((nil)), type:(1)
+INFO    (10:56:19: 46 |    0)   4672; CreateAgoraDefaultRender
+INFO    (10:56:19: 46 |    0)   4672; VideoSendTrackImpl::UpdateRenderer, renderer=0x7f41b01ae570
+INFO    (10:56:19: 46 |    0)   4672; CreateVideoRenderer: interface=0x7f41b01ae570
+INFO    (10:56:19: 46 |    0)   4672; [MIO] video send track prepared !!
+INFO    (10:56:19: 46 |    0)   4672; [che] applyVideoProfile: 1280x720 24 fps 2401 kbps, min 2 kbps orientationMode -1341940288
+INFO    (10:56:19: 46 |    0)   4672; validateVideoParameters: validate video parameters resolution 1280x720, fps 24, rate 2401000
+INFO    (10:56:19: 46 |    0)   4672; setMaxVideoBitrate: max bitrate=2401000
+INFO    (10:56:19: 46 |    0)   4672; setCodecRates: set frame rate to 24
+INFO    (10:56:19: 46 |    0)   4672; setCodec: index=1 width=640 height=360 framerate=24
+INFO    (10:56:19: 46 |    0)   4672; setCodec: Intra Request = 0
+INFO    (10:56:19: 46 |    0)   4683; Thread with name:VideoEncodeThread started 
+INFO    (10:56:19: 46 |    0)   4672; Device type: 0
+INFO    (10:56:19: 46 |    0)   4672; last unique frame idx: -1 - -1
+INFO    (10:56:19: 46 |    0)   4672; Device type: 0
+INFO    (10:56:19: 46 |    0)   4672; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+INFO    (10:56:19: 46 |    0)   4672; low bit rate limit 5184
+INFO    (10:56:19: 46 |    0)   4672; set last big unique frame idx: -1
+INFO    (10:56:19: 46 |    0)   4672; set last small unique frame idx: -1
+INFO    (10:56:19: 46 |    0)   4672; the init unique frame idx: -1 - -1
+INFO    (10:56:19: 46 |    0)   4672; SetTargetWidthHeight width:640, height:360
+INFO    (10:56:19: 46 |    0)   4672; setCodecResolution: set to 720 x 1280
+INFO    (10:56:19: 46 |    0)   4672; setCodec: index=1 width=720 height=1280 framerate=24
+INFO    (10:56:19: 46 |    0)   4672; setCodec: Intra Request = 0
+WARN    (10:56:19: 46 |    0)   4672; setCodec: codec resolution width (720) < height (&u)
+INFO    (10:56:19: 47 |    1)   4684; Thread with name:VideoEncodeThread started 
+INFO    (10:56:19: 47 |    0)   4672; Device type: 0
+INFO    (10:56:19: 47 |    0)   4672; last unique frame idx: -1 - -1
+INFO    (10:56:19: 47 |    0)   4672; Device type: 0
+INFO    (10:56:19: 47 |    0)   4672; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+INFO    (10:56:19: 47 |    0)   4672; low bit rate limit 5376
+INFO    (10:56:19: 47 |    0)   4672; set last big unique frame idx: -1
+INFO    (10:56:19: 47 |    0)   4672; set last small unique frame idx: -1
+INFO    (10:56:19: 47 |    0)   4672; the init unique frame idx: -1 - -1
+INFO    (10:56:19: 47 |    0)   4672; SetTargetWidthHeight width:1280, height:720
+INFO    (10:56:19: 47 |    0)   4672; Set broadcast min br to -1.
+INFO    (10:56:19: 47 |    0)   4672; [che] chat engine initialized
+INFO    (10:56:19: 47 |    0)   4672; [vocs] vocs initialized
+INFO    (10:56:19: 47 |    0)   4672; CacheManager: save cache to storage elapsed 0
+INFO    (10:56:19: 48 |    1)   4672; [cm] emit join channel signal, size=2
+INFO    (10:56:19: 48 |    0)   4672; [cm] connection state changed from 1 to 2
+INFO    (10:56:19: 48 |    0)   4672; CacheManager: save cache to storage elapsed 0
+INFO    (10:56:19: 48 |    0)   4672; [vocs] lookup channel...
+INFO    (10:56:19: 48 |    0)   4672; [vocs] selected: 106.14.12.130:8000
+INFO    (10:56:19: 48 |    0)   4672; connecting to 106.14.12.130:8000 handle b01df390, 29
+INFO    (10:56:19: 48 |    0)   4672; [vocs] report bitrate: a/v/t: 50/2401/2451
+INFO    (10:56:19: 48 |    0)   4672; [vocs] creating channel with 106.14.12.130:8000, ts 1555037779048.......
+INFO    (10:56:19: 48 |    0)   4672; [vocs] selected: 47.107.39.93:1080
+INFO    (10:56:19: 48 |    0)   4672; [vocs] report bitrate: a/v/t: 50/2401/2451
+INFO    (10:56:19: 48 |    0)   4672; [vocs] creating channel with 47.107.39.93:1080, ts 1555037779048.......
+INFO    (10:56:19: 48 |    0)   4672; [vocs] selected: 54.223.118.211:25000
+INFO    (10:56:19: 48 |    0)   4672; [vocs] report bitrate: a/v/t: 50/2401/2451
+INFO    (10:56:19: 48 |    0)   4672; [vocs] creating channel with 54.223.118.211:25000, ts 1555037779048.......
+INFO    (10:56:19: 48 |    0)   4672; [ap] selected: 52.52.84.170:8000
+INFO    (10:56:19: 48 |    0)   4672; connecting to 52.52.84.170:8000 handle b01e20f0, 30
+INFO    (10:56:19: 48 |    0)   4672; [ap] creating channel with 52.52.84.170:8000, ts 1210340769, flag: 2
+INFO    (10:56:19: 48 |    0)   4672; [ap] selected: 52.58.56.244:1080
+INFO    (10:56:19: 48 |    0)   4672; [ap] creating channel with 52.58.56.244:1080, ts 1210340769, flag: 2
+INFO    (10:56:19: 48 |    0)   4672; [ap] selected: 106.14.12.130:25000
+INFO    (10:56:19: 48 |    0)   4672; [ap] creating channel with 106.14.12.130:25000, ts 1210340769, flag: 2
+INFO    (10:56:19: 48 |    0)   4672; [rp] {"che.audio.audioSampleRate":48000}
+INFO    (10:56:19: 48 |    0)   4672; [dns] parsed ip 203.60.1.48
+INFO    (10:56:19: 49 |    1)   4672; [dns] parsed ip 128.1.87.154
+INFO    (10:56:19: 49 |    0)   4672; [dns] parsed ip 3.0.163.78
+INFO    (10:56:19: 49 |    0)   4672; [dns] parsed ip 52.68.71.190
+INFO    (10:56:19: 49 |    0)   4672; [dns] parsed ip 119.9.116.186
+INFO    (10:56:19: 49 |    0)   4672; [dns] parsed ip 3.0.213.60
+INFO    (10:56:19: 49 |    0)   4672; [dns] parsed ip 52.194.158.59
+INFO    (10:56:19: 49 |    0)   4672; [ap] onParsedDns with err 0, 203.60.1.48, 128.1.87.154, 3.0.163.78, 52.68.71.190, 119.9.116.186, 3.0.213.60, 52.194.158.59, 
+INFO    (10:56:19:107 |   58)   4672; [dns] parsed ip 203.60.1.48
+INFO    (10:56:19:108 |    1)   4672; [dns] parsed ip 52.68.71.190
+INFO    (10:56:19:108 |    0)   4672; [dns] parsed ip 128.1.87.154
+INFO    (10:56:19:108 |    0)   4672; [dns] parsed ip 52.194.158.59
+INFO    (10:56:19:108 |    0)   4672; [dns] parsed ip 3.0.163.78
+INFO    (10:56:19:108 |    0)   4672; [dns] parsed ip 119.9.116.186
+INFO    (10:56:19:108 |    0)   4672; [dns] parsed ip 3.0.213.60
+INFO    (10:56:19:109 |    1)   4672; [vocs/u] **responsed from 47.107.39.93:1080, 3 vos, elapsed 71, server ts 1555037779046, wan ip 47******248
+INFO    (10:56:19:109 |    0)   4672; [vos] added server: 45.40.48.108:4004
+INFO    (10:56:19:109 |    0)   4672; [vos] added server: 128.1.87.90:4018
+INFO    (10:56:19:109 |    0)   4672; [vos] added server: 98.124.139.207:4010
+INFO    (10:56:19:109 |    0)   4672; [ch0] vos initialized
+INFO    (10:56:19:109 |    0)   4672; [vos] selected: 98.124.139.207:4010
+ERROR   (10:56:19:109 |    0)   4672; [ch0] login strategy=2
+INFO    (10:56:19:110 |    1)   4672; [ds]: ver 1 ds '{"streamType":5,"clientRole":2}'
+INFO    (10:56:19:110 |    0)   4672; [ch0] Login VOS (proto:11, cid:1415424096, uid:877892364, ts:1555037779109, ticket size:80 ds:1 stream:+A+VH) 2: 98.124.139.207:4010
+INFO    (10:56:19:110 |    0)   4672; add ping address 47.88.230.248
+INFO    (10:56:19:110 |    0)   4672; PING 47.88.230.248:0 16(44) bytes of data
+INFO    (10:56:19:117 |    7)   4672; [dns] parsed ip 3.0.213.60
+INFO    (10:56:19:117 |    0)   4672; [dns] parsed ip 128.1.87.154
+INFO    (10:56:19:117 |    0)   4672; [dns] parsed ip 52.194.158.59
+INFO    (10:56:19:117 |    0)   4672; [dns] parsed ip 52.68.71.190
+INFO    (10:56:19:117 |    0)   4672; [dns] parsed ip 3.0.163.78
+INFO    (10:56:19:117 |    0)   4672; [dns] parsed ip 119.9.116.186
+INFO    (10:56:19:117 |    0)   4672; [dns] parsed ip 203.60.1.48
+INFO    (10:56:19:133 |   16)   4672; [ap/u] **responsed from 106.14.12.130:25000, CDS(8).
+INFO    (10:56:19:133 |    0)   4672; [ap] onAPCdsRes success with config: ¸Æ¯ßÔÚ¤—ÑúÊÏŸá’–²ÂÛÜ­ÆÉâƒ…‘¾
+INFO    (10:56:19:133 |    0)   4672; [cs] applied directly: {"configs":{},"version":"27"}, elapsed: 0
+INFO    (10:56:19:133 |    0)   4672; CacheManager: save cache to storage elapsed 0
+INFO    (10:56:19:142 |    9)   4672; [ap/u] **responsed from 106.14.12.130:25000, TDS(64).
+INFO    (10:56:19:142 |    0)   4672; [ap] onAPTdsRes success with config: {}, size: 0
+INFO    (10:56:19:154 |   12)   4672; [rlbs/u] responsed from 52.80.192.229:9700 with servers 103.104.168.247:8913
+INFO    (10:56:19:154 |    0)   4672; [rs] updateServers 103.104.168.247:8913, priority 3
+INFO    (10:56:19:154 |    0)   4672; [rs] updateServers 199.190.44.36:8913, priority 3
+INFO    (10:56:19:154 |    0)   4672; [rs] updateServers 103.193.127.72:8913, priority 3
+INFO    (10:56:19:157 |    3)   4672; [ap/u] **responsed from 106.14.12.130:25000, STUN(2).
+INFO    (10:56:19:170 |   13)   4672; [vocs/u] **responsed from 54.223.118.211:25000, 3 vos, elapsed 132, server ts 1555037779141, wan ip 47******248
+INFO    (10:56:19:178 |    8)   4672; [vocs/u] **responsed from 106.14.12.130:8000, 3 vos, elapsed 140, server ts 1555037779152, wan ip 47******248
+INFO    (10:56:19:220 |   42)   4672; [ap/u] **responsed from 52.52.84.170:8000, CDS(8).
+INFO    (10:56:19:220 |    0)   4672; [ap/u] **responsed from 52.52.84.170:8000, TDS(64).
+INFO    (10:56:19:241 |   21)   4672; [ap/u] **responsed from 52.52.84.170:8000, STUN(2).
+INFO    (10:56:19:286 |   45)   4672; [ch0] **VOS response to login request (res 0 elapsed 248, server ts 1555037779281, s-c:-5) from 98.124.139.207:4010, and current dest server 98.124.139.207:4010
+INFO    (10:56:19:286 |    0)   4672; updateActiveVosList: ["98.124.139.207:4010"]
+INFO    (10:56:19:287 |    1)   4672; [cm] connection state changed from 2 to 3
+INFO    (10:56:19:287 |    0)   4672; RequestEncodeKeyFrame
+INFO    (10:56:19:287 |    0)   4672; [che] start call begins
+INFO    (10:56:19:287 |    0)   4672; Update settings: mode 3, rec_source -2, rec_fs 48000, builtin aec 0
+INFO    (10:56:19:287 |    0)   4672; Set Application Mode in RTC Engine to No. 6
+ERROR   (10:56:19:287 |    0)   4672; GetCodec() invalid index (error=8004)
+INFO    (10:56:19:287 |    0)   4672; SetCodec by type : No. 77
+INFO    (10:56:19:294 |    7)   4672; StartPlayout complete
+INFO    (10:56:19:294 |    0)   4672; StartSend
+INFO    (10:56:19:303 |    9)   4672; StartRecording complete
+WARN    (10:56:19:304 |    1)   4672; SetAgcStatus() failed to set Agc mode (error=10028)
+INFO    (10:56:19:304 |    0)   4672; Application Config module:  Route 0, NS on, AEC on, AGC on, BSS off, HC off
+INFO    (10:56:19:304 |    0)   4672; MID = 0, Routing = 0
+INFO    (10:56:19:304 |    0)   4672; output: kDummyAudio
+ERROR   (10:56:19:304 |    0)   4672;   unknown audio layer (error=10009)
+INFO    (10:56:19:304 |    0)   4672;   Output: audioLayer=2
+INFO    (10:56:19:304 |    0)   4672; [che] startLocalVideo: video capture has been enabled
+INFO    (10:56:19:304 |    0)   4672; doStartLocalRender: init? 1 capture id -1 device 1024 capturing? 0 rendering? 0
+INFO    (10:56:19:304 |    0)   4672; doStartLocalRender: Receive Only Mode, local renderer still on.
+INFO    (10:56:19:304 |    0)   4672; [che] start call returns 0, elapsed 17
+INFO    (10:56:19:304 |    0)   4672; Recording scene, delay in parameter 1000, delay in options 1000.
+INFO    (10:56:19:304 |    0)   4672; setNetEQMinimumPlayoutDelay delay(1000)
+INFO    (10:56:19:304 |    0)   4672; join channel success: cname '111111' uid 877892364 elapsed 266
+INFO    (10:56:19:304 |    0)   4673; User 877892364 join channel 111111 success, elapsed: 266 ms
+INFO    (10:56:19:304 |    0)   4663; Channel eventIds: mix mode:1 , min port:-1 , max port:-1 ,decode audio:0 , decode_video:0 , live:1 , idle:190 , audio only:0, video_only 0,syslog facility:8 , mix mode height:1280 , mix mode width:720 , mix mode fps 
+INFO    (10:56:19:310 |    6)   4672; CacheManager: save cache to storage elapsed 1
+INFO    (10:56:19:310 |    0)   4672; [ap/u] **responsed from 52.58.56.244:1080, CDS(8).
+INFO    (10:56:19:310 |    0)   4672; [rp] {"che.audio.specify.codec":"AACLC"}
+INFO    (10:56:19:310 |    0)   4672; SetCodec is specified to be AACLC
+ERROR   (10:56:19:310 |    0)   4672; GetCodec() invalid index (error=8004)
+INFO    (10:56:19:310 |    0)   4672; enforced setCodec, set by specifyCodec
+INFO    (10:56:19:310 |    0)   4672; SetCodec by type : No. 75
+INFO    (10:56:19:311 |    1)   4672; [rp] {"che.audio.audienceMode":false}
+INFO    (10:56:19:311 |    0)   4672; [rp] {"che.video.audienceMode":false}
+INFO    (10:56:19:311 |    0)   4672; [rp] {"che.video.server_mode":true}
+INFO    (10:56:19:311 |    0)   4672; switchServerMode : mosaic=1
+WARN    (10:56:19:311 |    0)   4672; stopCapture: VideoEngine haven't startCapture
+INFO    (10:56:19:311 |    0)   4672; setCaptureDevice: index=1024
+INFO    (10:56:19:311 |    0)   4672; VideoSendTrackImpl::UpdateCapturer capturer=0x7f41b0160960
+INFO    (10:56:19:311 |    0)   4672; CreateVideoCapturer: interface=0x7f41b0160960
+INFO    (10:56:19:311 |    0)   4672; Create participant 0
+INFO    (10:56:19:311 |    0)   4672; startCapture: device? 1024 init? 1 local enabled? 1 capturing? 0 rendering? 0
+INFO    (10:56:19:311 |    0)   4672; VideoSendTrackImpl::UpdateCapturer capturer=0x7f41b0160960
+WARN    (10:56:19:311 |    0)   4672; VideoSendTrackImpl::UpdateCapturer, Ignore updating the same capturer
+INFO    (10:56:19:311 |    0)   4672; [rtpSender] set paced sender status 0.
+
+INFO    (10:56:19:311 |    0)   4672; AgoraVideoInput::Init thread=1, type=100, device=External Device
+INFO    (10:56:19:311 |    0)   4685; Thread with name:AgoraInputThread started 
+INFO    (10:56:19:311 |    0)   4686; Thread with name:ExternalCaptureThread started 
+INFO    (10:56:19:311 |    0)   4672; h264WebInteropEnable: enable 0
+INFO    (10:56:19:311 |    0)   4672; setCodec: index=1 width=720 height=1280 framerate=24
+INFO    (10:56:19:311 |    0)   4672; setCodec: Intra Request = 0
+INFO    (10:56:19:311 |    0)   4672; setMaxVideoBitrate: max bitrate=2401000
+INFO    (10:56:19:312 |    1)   4672; SetTargetWidthHeight width:720, height:1280
+INFO    (10:56:19:312 |    0)   4672; AgoraVideoInput::Start width=720, height=1280, fps=24
+INFO    (10:56:19:312 |    0)   4687; Thread with name:WebRtc_event_timer_thread started 
+INFO    (10:56:19:312 |    0)   4672; startCapture: startCapture success
+INFO    (10:56:19:312 |    0)   4672; RequestEncodeKeyFrame
+INFO    (10:56:19:312 |    0)   4672; doStartLocalRender: init? 1 capture id -1 device 1024 capturing? 1 rendering? 0
+INFO    (10:56:19:312 |    0)   4672; Recording JoinEvent Argus report.......
+INFO    (10:56:19:312 |    0)   4672; [dns] parsed ip 199.190.44.37
+INFO    (10:56:19:312 |    0)   4672; [dns] parsed ip 128.1.33.166
+INFO    (10:56:19:312 |    0)   4672; [rs] dns parse result code: 0, servers size: 2
+INFO    (10:56:19:312 |    0)   4672; [rs] updateServers 199.190.44.37:8000, priority from 1 to 2
+INFO    (10:56:19:312 |    0)   4672; [rs] updateServers 128.1.33.166:8000, priority 2
+INFO    (10:56:19:312 |    0)   4672; [ap/u] **responsed from 52.58.56.244:1080, TDS(64).
+INFO    (10:56:19:355 |   43)   4685; [che] onVideoSizeChanged: uid 0 720x1280 rotate 0
+INFO    (10:56:19:356 |    1)   4684; VQC module init done. stream no 0, mode 0, structure 257, scenario 512, preference 0, preferEnableVQC 1.
+INFO    (10:56:19:356 |    0)   4684; Encoder rc method 3
+INFO    (10:56:19:486 |  130)   4672; [ch0] rtt: 176
+INFO    (10:56:19:546 |   60)   4672; audio setPeerAudioMuteStatus: uid 3434545944 muted 0
+INFO    (10:56:19:546 |    0)   4672; video setPeerVideoMuteStatus: uid 3434545944 muted 1
+INFO    (10:56:19:546 |    0)   4672; [pm] peer 3434545944 is online
+INFO    (10:56:19:546 |    0)   4673; offset 508ms: 3434545944 joined the channel
+INFO    (10:56:19:546 |    0)   4663; User 3434545944 request 0 stream
+INFO    (10:56:19:548 |    2)   4663; SET_VIDEO_MIXING_LAYOUT_URI
+INFO    (10:56:19:548 |    0)   4663; Layout: { client ms: 0, canvas: { width: 720, height: 1280, bgnd: 0 }, Regions: [ -860421352, x: 0, y: 0, width: 1, height: 1, alpha: 255, render_mode: 2, zorder: NotSet}]
+INFO    (10:56:19:548 |    0)   4663; set mixing video layout count: 1
+INFO    (10:56:19:548 |    0)   4672; notifyPeerCount: cnt 1
+INFO    (10:56:19:548 |    0)   4672; [pm] peer 3434545944 has enabled video
+INFO    (10:56:19:548 |    0)   4673; User 3434545944 enabled video 1
+INFO    (10:56:19:548 |    0)   4672; video setPeerVideoMuteStatus: uid 3434545944 muted 1
+INFO    (10:56:19:548 |    0)   4672; onTracerFirstRemoteVideo uid 3434545944 codec 1 elapsed 510
+INFO    (10:56:19:548 |    0)   4672; Recording scene, delay in parameter 1000, delay in options 1000.
+INFO    (10:56:19:548 |    0)   4672; setNetEQMinimumPlayoutDelay delay(1000)
+WARN    (10:56:19:548 |    0)   4672; Failed to set video minimum delay for user:3434545944
+INFO    (10:56:19:548 |    0)   4672; [videostream] created: uid(3434545944), type(0)
+INFO    (10:56:19:548 |    0)   4672; [miaokai] Received 1st packet of stream 0, from uid 3434545944, frame number 4294967295.
+
+INFO    (10:56:19:548 |    0)   4672; Create participant 3434545944
+INFO    (10:56:19:548 |    0)   4672; Codec: VP8, Payload type 100, Height 360, Width 640, Bitrate 200,Framerate 15.
+INFO    (10:56:19:549 |    1)   4672; Codec: H264, Payload type 107, Height 360, Width 640, Bitrate 200,Framerate 15.
+INFO    (10:56:19:549 |    0)   4672; Recording SDK minimum delay 1000, default delay 400.
+INFO    (10:56:19:549 |    0)   4688; Thread with name:VideoDecodingThread started 
+INFO    (10:56:19:605 |   56)   4672; onFirstRemoteAudioFrame uid 3434545944 codec 122 elapsed 567
+INFO    (10:56:19:605 |    0)   4672; onTracerFirstRemoteAudio uid 3434545944 codec 122 elapsed 567
+INFO    (10:56:19:605 |    0)   4673; onFirstRemoteAudioFrame User -860421352
+INFO    (10:56:19:606 |    1)   4672; audio jitterbuffer new smooth
+INFO    (10:56:19:606 |    0)   4672; [rp] {"rtc.video.set_remote_video_stream":{"uid":3434545944,"stream":0},"che.video.setstream":{"uid":3434545944,"stream":0}}
+INFO    (10:56:19:606 |    0)   4672; SetRequestedStreamType: set requested stream master for 3434545944
+INFO    (10:56:19:620 |   14)   4672; [ap/u] **responsed from 52.58.56.244:1080, STUN(2).
+INFO    (10:56:19:696 |   76)   4672; [miaokai] Assembled 1st frame from stream 0.
+
+INFO    (10:56:20:548 |    0)   4672; Recording scene, delay in parameter 1000, delay in options 1000.
+INFO    (10:56:20:548 |    0)   4672; setNetEQMinimumPlayoutDelay delay(1000)
+WARN    (10:56:20:597 |   49)   4688; first frame (ts 276735477 type 3) hand over to decoder directly, not to buffer it
+INFO    (10:56:20:597 |    0)   4688; [miaokai] Decoded 1st frame from stream 0.
+
+INFO    (10:56:20:618 |   21)   4688; [che] onVideoSizeChanged: uid 3434545944 1280x720 rotate 0
+INFO    (10:56:20:619 |    1)   4672; [MIO] updateRemoteRenderer for uid(3434545944) with render((nil)), type(1)
+INFO    (10:56:20:619 |    0)   4672; CreateVideoReceiveTrack: uid=3434545944
+INFO    (10:56:20:619 |    0)   4672; CreateAgoraDefaultRender
+INFO    (10:56:20:619 |    0)   4672; VideoReceiveTrackImpl::UpdateRenderer, track_id=-860421352, renderer=0x7f41b006cbf0
+INFO    (10:56:20:619 |    0)   4672; CreateVideoRenderer: interface=0x7f41b006cbf0
+INFO    (10:56:20:619 |    0)   4672; doStartRemoteRender: uid 3434545944
+INFO    (10:56:20:619 |    0)   4672; doStartRemoteRender: uid 3434545944
+INFO    (10:56:20:619 |    0)   4672; onRemoteFirstFrameDecoded user 3434545944 resolution 1280 * 720, elapsed 1581
+INFO    (10:56:20:621 |    2)   4673; onFirstRemoteVideoDecoded User -860421352
+INFO    (10:56:22:541 |    0)   4672; bypass setCodec, override state is in force
+INFO    (10:56:24: 38 |    0)   4672; [rs] **report stats: seq: 63, report list size 0, tx/rx: 10149/3024, cache size: 0
+INFO    (10:56:25:303 |  265)   4678; Audio statistics - play count: playout count = 200  signal level: far_in = 81
+INFO    (10:56:25:304 |    1)   4678; Audio statistics - rec count: record count = 200 signal level: near_in = 0, near_out = 0 encode_in = 81
+INFO    (10:56:25:540 |  236)   4672; bypass setCodec, override state is in force
+INFO    (10:56:28:536 |    0)   4672; bypass setCodec, override state is in force
+INFO    (10:56:31:538 |    2)   4672; bypass setCodec, override state is in force
+INFO    (10:56:34:191 |    0)   4663; [ARS/15s]event cnts:5, audio pkts:0, mix audio pkts:0, yuv video pkts:0, h264 video pkts:0
+INFO    (10:56:34:536 |  345)   4672; bypass setCodec, override state is in force
+INFO    (10:56:37:536 |    0)   4672; bypass setCodec, override state is in force
+INFO    (10:56:39:303 |    0)   4678; Audio statistics - play count: playout count = 600  signal level: far_in = 94
+INFO    (10:56:39:313 |   10)   4678; Audio statistics - rec count: record count = 600 signal level: near_in = 0, near_out = 0 encode_in = 94
+INFO    (10:56:39:714 |  401)   4663; event_loop Required to stop :0
+WARN    (10:56:39:714 |    0)   4663; Before cleanup cnt 1, errno 11 4, joined_ 1, term_sig 0, leave path code 16
+INFO    (10:56:39:714 |    0)   4663; Leaving channel and ready to cleanup
+INFO    (10:56:39:714 |    0)   4663; API call to leave channel
+INFO    (10:56:39:714 |    0)   4672; Recording LeaveEvent Argus report.......
+INFO    (10:56:39:715 |    1)   4672; [rp] {"rtc.audio.mute_peers":true}
+INFO    (10:56:39:715 |    0)   4672; [ds]: ver 2 ds '{"streamType":4,"clientRole":2}'
+INFO    (10:56:39:715 |    0)   4672; [ch0] sync (cid:1415424096, uid:877892364, sync:2): 98.124.139.207:4010
+INFO    (10:56:39:715 |    0)   4672; audio setPeerAudioMuteStatus: uid 3434545944 muted 1
+INFO    (10:56:39:715 |    0)   4672; [rp] {"rtc.video.mute_peers":true}
+INFO    (10:56:39:715 |    0)   4672; Recording scene, delay in parameter 1000, delay in options 1000.
+INFO    (10:56:39:715 |    0)   4672; setNetEQMinimumPlayoutDelay delay(1000)
+INFO    (10:56:39:715 |    0)   4672; [videostream] created: uid(3434545944), type(0)
+INFO    (10:56:39:715 |    0)   4672; video setPeerVideoMuteStatus: uid 3434545944 muted 1
+INFO    (10:56:39:715 |    0)   4672; reset video recevier for user -860421352
+INFO    (10:56:39:716 |    1)   4672; [cm] emit leave channel signal
+INFO    (10:56:39:716 |    0)   4672; stopLocalRender
+INFO    (10:56:39:716 |    0)   4672; stopLocalRender success
+INFO    (10:56:39:716 |    0)   4672; AgoraVideoInput::Stop
+INFO    (10:56:39:716 |    0)   4672; AgoraVideoInput::Destroy
+INFO    (10:56:39:797 |   81)   4672; stopCapture: stopCapture success
+INFO    (10:56:39:797 |    0)   4672; [rtpSender] set paced sender status 0.
+
+INFO    (10:56:39:797 |    0)   4672; stopRemoteRender
+INFO    (10:56:39:797 |    0)   4672; stopRemoteVideo: uid=3434545944
+INFO    (10:56:39:869 |   72)   4672; [che] stopCall begins
+INFO    (10:56:39:869 |    0)   4672; StopRecording complete
+INFO    (10:56:39:869 |    0)   4672; StopPlayout complete
+INFO    (10:56:39:869 |    0)   4672; [che] stop call returns 0, elapsed 1
+INFO    (10:56:39:869 |    0)   4672; [rs] **report stats: seq: 95, report list size 8, tx/rx: 14745/4176, cache size: 0
+INFO    (10:56:39:869 |    0)   4672; [cm] connection state changed from 3 to 1
+INFO    (10:56:39:869 |    0)   4672; **CALL STATS: duration 20s, tx 19.173K bytes, rx 3.8M bytes, total 3.27M bytes
+INFO    (10:56:39:869 |    0)   4672; CacheManager: save cache to storage elapsed 0
+INFO    (10:56:39:870 |    1)   4672; [ch0] vos destroyed
+INFO    (10:56:39:870 |    0)   4672; delRef of media engine, ref=0
+INFO    (10:56:39:870 |    0)   4672; [che] chat engine destroying
+INFO    (10:56:39:870 |    0)   4672; stopLocalRender
+INFO    (10:56:39:870 |    0)   4672; stopLocalRender success
+WARN    (10:56:39:870 |    0)   4672; stopCapture: VideoEngine haven't startCapture
+INFO    (10:56:39:870 |    0)   4672; stopRemoteRender
+INFO    (10:56:39:870 |    0)   4672; stopRemoteVideo: uid=3434545944
+INFO    (10:56:39:870 |    0)   4672; [che] stopCall begins
+INFO    (10:56:39:870 |    0)   4672; [che] stop call returns -1, elapsed 0
+INFO    (10:56:39:870 |    0)   4672; DestroyVideoReceiveTrack: uid=3434545944
+INFO    (10:56:39:870 |    0)   4672; VideoReceiveTrackImpl::UpdateRenderer, track_id=-860421352, renderer=(nil)
+INFO    (10:56:39:870 |    0)   4672; CreateVideoRenderer: interface=(nil)
+INFO    (10:56:39:870 |    0)   4672; stopLocalRender
+INFO    (10:56:39:870 |    0)   4672; stopLocalRender success
+INFO    (10:56:39:870 |    0)   4672; stopRemoteRender
+INFO    (10:56:39:870 |    0)   4672; stopRemoteVideo: uid=3434545944
+WARN    (10:56:39:870 |    0)   4672; stopCapture: VideoEngine haven't startCapture
+INFO    (10:56:39:871 |    1)   4672; PipelineManager::SetDest  engine = (nil)
+WARN    (10:56:39:871 |    0)   4672; terminate: VideoEngine haven't init
+INFO    (10:56:39:871 |    0)   4672; [DEBUGG] ViERenderManager Destructor, engine_id: 0
+INFO    (10:56:39:871 |    0)   4672; Delete participant 3434545944
+INFO    (10:56:39:871 |    0)   4672; AgoraCameraCapture::Dispose
+INFO    (10:56:39:871 |    0)   4672; VideoSendTrackImpl::UpdateCapturer capturer=(nil)
+INFO    (10:56:39:871 |    0)   4672; CreateVideoCapturer: interface=(nil)
+INFO    (10:56:39:871 |    0)   4672; VideoSendTrackImpl::UpdateRenderer, renderer=(nil)
+INFO    (10:56:39:871 |    0)   4672; CreateVideoRenderer: interface=(nil)
+INFO    (10:56:39:872 |    1)   4672; [che] chat engine destroyed
+INFO    (10:56:39:872 |    0)   4672; ***CALL END
+INFO    (10:56:39:872 |    0)   4672; [cc] setLocalMuteAudioState: false, priority: 4
+INFO    (10:56:39:872 |    0)   4672; [cc] setLocalMuteVideoState: false, priority: 4
+INFO    (10:56:39:872 |    0)   4672; onAudioStatusChanged enable audio
+INFO    (10:56:39:872 |    0)   4672; [MIO] media io controller destroyed
+INFO    (10:56:39:872 |    0)   4663; async task worker thread exited gracefully

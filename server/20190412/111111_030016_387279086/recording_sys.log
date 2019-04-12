@@ -1,0 +1,539 @@
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:568: [Wrapper version] 50b1eb1c957208bad1aafa6d87bbb72a0c3f02b1
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:569: =======params ======
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: /root/Dev/tempForRakuten/record/src/sdk/bin/AgoraCoreService
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --app_id
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 724c0ce49bd945bdbbdcab243b9a10d1
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --channel_key
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 724c0ce49bd945bdbbdcab243b9a10d1
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --channel_id
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 111111
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --mix
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 1
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --mixedVideoAudio
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 2
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --live
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 1
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --chunk_time_span
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 0
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --idle
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 190
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --decode_audio
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 0
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --decode_video
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 0
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --capture_interval
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 5
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --audio_indication_interval
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 61338976
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --syslog_fclt
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 8
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --streamType
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 0
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --serviceMode
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 0
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --recording_file_dir
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: ./20190412/111111_030016_387279086/
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --mix_resolution
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 720,1280,24,2401
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --lang
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 0
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --audioProfile
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 0
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --logLevel
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 5
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --enabledModules
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: -1
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: --avSyncType
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:571: 2
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/base/pipe_router.cpp:170: The ARS created. Reading pipe: 24, writing pipe: 27, pid: 4763
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/video_recorder/main.cpp:287: video recording wrapper:8, idle:190 write:25, read:26, live:1,channelid:111111 
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/video_recorder/main.cpp:308: [ARS version] 50b1eb1c957208bad1aafa6d87bbb72a0c3f02b1
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/video_recorder/main.cpp:310: uid 0 from vendor 724c0ce49bd945bdbbdcab243b9a10d1 is joining channel 111111
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:222: SDK version: faacc94; chat engine: 6e2efc0
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:227: decode_video:0,decode_audio:0
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:261: Using random lowUdpPort & highUdpPort
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:402 |    0)   4763; Using random lowUdpPort & highUdpPort
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:402 |    0)   4763; API call to setChannelProfile 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:402 |    0)   4763; API call to setClientRole 2
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:171: getAudioParameters with type : 0
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:314: ======> sample rate : 48000, channels :1, bitrate : 48000
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:363: Audio profile : samplerate 48000, channels 1, sampelsPerCall 480
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1931: init stream, trigger mode: 0 service mode: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:403 |    1)   4763; API call to setVideoEncoderConfiguration 720x1280 24 fps 2401 kbps min -1 kbps mode 2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:403 |    0)   4763; API call to enable video
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:403 |    0)   4763; API call to join channel '111111' uid 0, SDK ver 2.3.3.150 build 1212, device info 'Linux version 4.4.0-93-generic (buildd@lcy01-28) (gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) ) #116~14.04.1-Ubuntu SMP Mon A
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:403 |    0)   4772; Agora Service Worker Thread started: 0x459ccd8
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:403 |    0)   4772; network: 'NETWORK_UNKOWN' -> 'LAN' ipv4/v6 '172.21.252.146'/'' gw ''/'' subtype 0 level 148751168 ssid '' bssid '' rssi 32571 asu 73348256
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:403 |    0)   4772; [rs] updateServers 199.190.44.36:8000, priority 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:403 |    0)   4772; [rs] updateServers 199.190.44.37:8000, priority 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:403 |    0)   4772; [rlbs] selected: 52.80.192.229:9700
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:403 |    0)   4772; [rlbs] request rs list from 52.80.192.229:9700 with fake ch report_lbs_1555038016403.......
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    1)   4772; [MIO] mediaIO controller created
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; found 'NULL' device: 'Linux version 4.4.0-93-generic (buildd@lcy01-28) (gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) ) #116~14.04.1-Ubuntu SMP Mon Aug 14 16:07:05 UTC 2017
+'
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; CacheManager: save cache to storage elapsed 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; [ap] selected: 47.74.211.17:8000
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; connecting to 47.74.211.17:8000 handle f804c980, 19
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; [ap] CdsTdsRequest, session_id: BFE624F4E4644E41838021242658E25E, detail: Linux version 4.4.0-93-generic (buildd@lcy01-28) (gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) ) #116~14.04.1-Ubuntu SMP Mon Aug 14 16:0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; [ap] creating channel with 47.74.211.17:8000, ts 0, flag: 72
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; [ap] selected: 106.14.12.130:1080
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; [ap] CdsTdsRequest, session_id: BFE624F4E4644E41838021242658E25E, detail: Linux version 4.4.0-93-generic (buildd@lcy01-28) (gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) ) #116~14.04.1-Ubuntu SMP Mon Aug 14 16:0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; [ap] creating channel with 106.14.12.130:1080, ts 0, flag: 72
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; [ap] selected: 54.223.118.211:25000
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; [ap] CdsTdsRequest, session_id: BFE624F4E4644E41838021242658E25E, detail: Linux version 4.4.0-93-generic (buildd@lcy01-28) (gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) ) #116~14.04.1-Ubuntu SMP Mon Aug 14 16:0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:404 |    0)   4772; [ap] creating channel with 54.223.118.211:25000, ts 0, flag: 72
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    1)   4772; [rp] {"rtc.channel_profile":1}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"rtc.client_role":2}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.audio.external_device":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.audio.audioSampleRate":48000}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.video.keep_prerotation":false}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"rtc.client_type":3}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.audio.audienceMode":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.video.audienceMode":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.video.recordingDelay":1000}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.video.recordingScene":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"rtc.video.recordingScene":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.video.recording":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.video.recording":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.audio.set_capture_raw_audio_format":{"sampleRate":48000,"channelCnt":1,"mode":1,"samplesPerCall":480}}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:405 |    0)   4772; [rp] {"che.audio.set_render_raw_audio_format":{"sampleRate":48000,"channelCnt":1,"mode":0,"samplesPerCall":480}}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    1)   4772; [rp] {"che.audio.volume_indication":{"interval":61338976,"smooth":3}}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; [rp] {"rtc.log_file":"./20190412/111111_030016_387279086/recording_0.log"}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; [rp] {"rtc.video.mute_me":true,"che.video.local.send":false}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; [rp] {"rtc.audio.mute_me":true,"che.audio.mute_me":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; [rp] {"rtc.video.set_remote_default_video_stream_type":0}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; API call to SetRemoteDefaultVideoStreamType: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; [rp] {"che.video.local.camera_index":1024}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; [rp] {"rtc.video.enabled":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; API call to enable video
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; [rp] {"che.video.recording":false}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; ***CALL BEGIN: appid:'72****************************d1' cname:'111111' info:'' sid:'52C5313EBAB346AFA4FFA92A5C9B3A1F'
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; addRef of media engine, ref=1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; [che] create chat engine, ctx:(nil)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; [MYDEBUG] large group call false
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; ChatEngineParameterHelper::applyMediaEngineMode: 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; applyMediaEngineMode(): Hardware encoding false Hardware decoding false
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:406 |    0)   4772; engine git commit version:6e2efc0 and branch:(detached
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:407 |    1)   4772; audio jitterbuffer new smooth
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:407 |    0)   4778; Thread with name:external_audio_module_thread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:407 |    0)   4779; Thread with name:WebRtc_event_timer_thread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:407 |    0)   4772; StereoPlayoutIsAvailable(), output: available=0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:407 |    0)   4772; StereoRecordingIsAvailable(), output: available=0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    1)   4780; Thread with name:EngineMonitorThread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    0)   4772; setMuteStatus, muted: On
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    0)   4772; setMuteOutput, muted: false
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    0)   4772; Audio Engine Init success
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    0)   4772; Available number of cores:1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    0)   4772; PipelineManager::SetDest  engine = 0x7f3af8142570
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    0)   4772; CreateVideoSendTrack
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    0)   4772; init: feature prerotation disabled
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    0)   4772; Agora Engine video codec set to standard mode role mode 3
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    0)   4772; Agora Engine video codec index 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:408 |    0)   4772; Agora Engine video stream type = 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    1)   4781; Thread with name:VideoEncodeThread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; Device type: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; last unique frame idx: -1 - -1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; Device type: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; low bit rate limit 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; dont need to increase unique frame idx
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; the init unique frame idx: -1 - -1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4782; Thread with name:VideoProcessThread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; setCodec: index=1 width=640 height=360 framerate=15
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; setCodec: Intra Request = 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; h264WebInteropEnable: enable 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; setCaptureDevice: index=1024
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; setMaxVideoBitrate: max bitrate=0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; video fec method 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; dynamic sending rate control enabled 0.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; videoEngine created and initialize here
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:409 |    0)   4772; CreateVideoSendTrack
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    1)   4772; [MIO] updateCapturer: ((nil)), type:(1)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; CreateAgoraDefaultCapture: type=0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; VideoSendTrackImpl::UpdateCapturer capturer=0x7f3af81607c0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; CreateVideoCapturer: interface=0x7f3af81607c0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; [MIO] updateLocalRender: ((nil)), type:(1)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; CreateAgoraDefaultRender
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; VideoSendTrackImpl::UpdateRenderer, renderer=0x7f3af81ae570
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; CreateVideoRenderer: interface=0x7f3af81ae570
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; [MIO] video send track prepared !!
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; [che] applyVideoProfile: 1280x720 24 fps 2401 kbps, min 2 kbps orientationMode -133980736
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; validateVideoParameters: validate video parameters resolution 1280x720, fps 24, rate 2401000
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; setMaxVideoBitrate: max bitrate=2401000
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; setCodecRates: set frame rate to 24
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; setCodec: index=1 width=640 height=360 framerate=24
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; setCodec: Intra Request = 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4783; Thread with name:VideoEncodeThread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; Device type: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; last unique frame idx: -1 - -1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; Device type: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; low bit rate limit 5184
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; set last big unique frame idx: -1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; set last small unique frame idx: -1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; the init unique frame idx: -1 - -1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; SetTargetWidthHeight width:640, height:360
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; setCodecResolution: set to 720 x 1280
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; setCodec: index=1 width=720 height=1280 framerate=24
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:410 |    0)   4772; setCodec: Intra Request = 0
+AgoraCoreService[4763]: (4763): WARN    (11: 0:16:410 |    0)   4772; setCodec: codec resolution width (720) < height (&u)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    1)   4784; Thread with name:VideoEncodeThread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; Device type: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; last unique frame idx: -1 - -1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; Device type: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; low bit rate limit 5376
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; set last big unique frame idx: -1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; set last small unique frame idx: -1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; the init unique frame idx: -1 - -1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; SetTargetWidthHeight width:1280, height:720
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; Set broadcast min br to -1.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; [che] chat engine initialized
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; [vocs] vocs initialized
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:411 |    0)   4772; CacheManager: save cache to storage elapsed 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    1)   4772; [cm] emit join channel signal, size=2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [cm] connection state changed from 1 to 2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; CacheManager: save cache to storage elapsed 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [vocs] lookup channel...
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [vocs] selected: 52.58.56.244:8000
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; connecting to 52.58.56.244:8000 handle f81df390, 29
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [vocs] report bitrate: a/v/t: 50/2401/2451
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [vocs] creating channel with 52.58.56.244:8000, ts 1555038016412.......
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [vocs] selected: 54.223.118.211:1080
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [vocs] report bitrate: a/v/t: 50/2401/2451
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [vocs] creating channel with 54.223.118.211:1080, ts 1555038016412.......
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [vocs] selected: 47.107.39.93:25000
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [vocs] report bitrate: a/v/t: 50/2401/2451
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [vocs] creating channel with 47.107.39.93:25000, ts 1555038016412.......
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [ap] selected: 47.74.211.17:8000
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; connecting to 47.74.211.17:8000 handle f81e20f0, 30
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [ap] creating channel with 47.74.211.17:8000, ts 1210578133, flag: 2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [ap] selected: 106.14.12.130:1080
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [ap] creating channel with 106.14.12.130:1080, ts 1210578133, flag: 2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [ap] selected: 54.223.118.211:25000
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [ap] creating channel with 54.223.118.211:25000, ts 1210578133, flag: 2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:412 |    0)   4772; [rp] {"che.audio.audioSampleRate":48000}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    1)   4772; [ap/t] tcp connected with 0x7f3af804b770
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [ap] CdsTdsRequest, session_id: BFE624F4E4644E41838021242658E25E, detail: Linux version 4.4.0-93-generic (buildd@lcy01-28) (gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) ) #116~14.04.1-Ubuntu SMP Mon Aug 14 16:0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [ap] tcp - creating channel with 47.74.211.17:8000, ts 0, flag: 72
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [ap/u] **responsed from 47.74.211.17:8000, CDS(8).
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [ap] onAPCdsRes success with config: ¸Æ¯ßÔÚ¤—ÑúÊÏŸá’–²ÂÛÜ­ÆÉâƒ…‘¾
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [cs] applied directly: {"configs":{},"version":"27"}, elapsed: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; CacheManager: save cache to storage elapsed 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 119.9.116.186
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 128.1.87.154
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 3.0.213.60
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 203.60.1.48
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 52.68.71.190
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 52.194.158.59
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 3.0.163.78
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [ap] onParsedDns with err 0, 119.9.116.186, 128.1.87.154, 3.0.213.60, 203.60.1.48, 52.68.71.190, 52.194.158.59, 3.0.163.78, 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 128.1.87.154
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 52.68.71.190
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 3.0.213.60
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 52.194.158.59
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 3.0.163.78
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 119.9.116.186
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:413 |    0)   4772; [dns] parsed ip 203.60.1.48
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:414 |    1)   4772; [ap/u] **responsed from 47.74.211.17:8000, TDS(64).
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:414 |    0)   4772; [ap] onAPTdsRes success with config: {}, size: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:414 |    0)   4772; [ap/t] tcp connected with 0x7f3af81dfda0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:414 |    0)   4772; [ap] tcp - creating channel with 47.74.211.17:8000, ts 1210578133, flag: 2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:449 |   35)   4772; [ap/u] **responsed from 47.74.211.17:8000, STUN(2).
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:477 |   28)   4772; [vocs/u] **responsed from 47.107.39.93:25000, 3 vos, elapsed 75, server ts 1555038016415, wan ip 47******248
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:477 |    0)   4772; [vos] added server: 45.40.48.19:4003
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:477 |    0)   4772; [vos] added server: 128.1.33.162:4005
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:477 |    0)   4772; [vos] added server: 45.40.48.10:4003
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:477 |    0)   4772; [ch0] vos initialized
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:477 |    0)   4772; [vos] selected: 45.40.48.10:4003
+AgoraCoreService[4763]: (4763): ERROR   (11: 0:16:478 |    1)   4772; [ch0] login strategy=2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:478 |    0)   4772; [ds]: ver 1 ds '{"streamType":5,"clientRole":2}'
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:478 |    0)   4772; [ch0] Login VOS (proto:11, cid:1415424096, uid:143919224, ts:1555038016478, ticket size:80 ds:1 stream:+A+VH) 2: 45.40.48.10:4003
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:478 |    0)   4772; add ping address 47.88.230.248
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:478 |    0)   4772; PING 47.88.230.248:0 16(44) bytes of data
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:482 |    4)   4772; [ch0] **VOS response to login request (res 0 elapsed 80, server ts 1555038016471, s-c:-11) from 45.40.48.10:4003, and current dest server 45.40.48.10:4003
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:482 |    0)   4772; updateActiveVosList: ["45.40.48.10:4003"]
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:482 |    0)   4772; [cm] connection state changed from 2 to 3
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:482 |    0)   4772; RequestEncodeKeyFrame
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:482 |    0)   4772; [che] start call begins
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:482 |    0)   4772; Update settings: mode 3, rec_source -2, rec_fs 48000, builtin aec 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:482 |    0)   4772; Set Application Mode in RTC Engine to No. 6
+AgoraCoreService[4763]: (4763): ERROR   (11: 0:16:482 |    0)   4772; GetCodec() invalid index (error=8004)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:482 |    0)   4772; SetCodec by type : No. 77
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:488 |    6)   4772; StartPlayout complete
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:488 |    0)   4772; StartSend
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |   10)   4772; StartRecording complete
+AgoraCoreService[4763]: (4763): WARN    (11: 0:16:498 |    0)   4772; SetAgcStatus() failed to set Agc mode (error=10028)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772; Application Config module:  Route 0, NS on, AEC on, AGC on, BSS off, HC off
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772; MID = 0, Routing = 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772; output: kDummyAudio
+AgoraCoreService[4763]: (4763): ERROR   (11: 0:16:498 |    0)   4772;   unknown audio layer (error=10009)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772;   Output: audioLayer=2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772; [che] startLocalVideo: video capture has been enabled
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772; doStartLocalRender: init? 1 capture id -1 device 1024 capturing? 0 rendering? 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772; doStartLocalRender: Receive Only Mode, local renderer still on.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772; [che] start call returns 0, elapsed 16
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772; Recording scene, delay in parameter 1000, delay in options 1000.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772; setNetEQMinimumPlayoutDelay delay(1000)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4772; join channel success: cname '111111' uid 143919224 elapsed 96
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1111: User 143919224 join channel 111111 success, elapsed: 96 ms
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:498 |    0)   4773; User 143919224 join channel 111111 success, elapsed: 96 ms
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:901: Channel eventIds: mix mode:1 , min port:-1 , max port:-1 ,decode audio:0 , decode_video:0 , live:1 , idle:190 , audio only:0 video_only 0,syslog facility:8 , mix mode height:1280 , mix mode width:720 , mix mode fps:24 , mix mode kbps:2401 , mix av:2, streamType:0, triggerMode:0, lang:0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:499 |    1)   4763; Channel eventIds: mix mode:1 , min port:-1 , max port:-1 ,decode audio:0 , decode_video:0 , live:1 , idle:190 , audio only:0, video_only 0,syslog facility:8 , mix mode height:1280 , mix mode width:720 , mix mode fps
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:503 |    4)   4772; CacheManager: save cache to storage elapsed 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:503 |    0)   4772; [ap/u] **responsed from 54.223.118.211:25000, CDS(8).
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:503 |    0)   4772; [rp] {"che.audio.specify.codec":"AACLC"}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:503 |    0)   4772; SetCodec is specified to be AACLC
+AgoraCoreService[4763]: (4763): ERROR   (11: 0:16:503 |    0)   4772; GetCodec() invalid index (error=8004)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:503 |    0)   4772; enforced setCodec, set by specifyCodec
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:503 |    0)   4772; SetCodec by type : No. 75
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    1)   4772; [rp] {"che.audio.audienceMode":false}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; [rp] {"che.video.audienceMode":false}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; [rp] {"che.video.server_mode":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; switchServerMode : mosaic=1
+AgoraCoreService[4763]: (4763): WARN    (11: 0:16:504 |    0)   4772; stopCapture: VideoEngine haven't startCapture
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; setCaptureDevice: index=1024
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; VideoSendTrackImpl::UpdateCapturer capturer=0x7f3af8160960
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; CreateVideoCapturer: interface=0x7f3af8160960
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; Create participant 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; startCapture: device? 1024 init? 1 local enabled? 1 capturing? 0 rendering? 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; VideoSendTrackImpl::UpdateCapturer capturer=0x7f3af8160960
+AgoraCoreService[4763]: (4763): WARN    (11: 0:16:504 |    0)   4772; VideoSendTrackImpl::UpdateCapturer, Ignore updating the same capturer
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; [rtpSender] set paced sender status 0.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:504 |    0)   4772; AgoraVideoInput::Init thread=1, type=100, device=External Device
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    2)   4785; Thread with name:AgoraInputThread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4786; Thread with name:ExternalCaptureThread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; h264WebInteropEnable: enable 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; setCodec: index=1 width=720 height=1280 framerate=24
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; setCodec: Intra Request = 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; setMaxVideoBitrate: max bitrate=2401000
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; SetTargetWidthHeight width:720, height:1280
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; AgoraVideoInput::Start width=720, height=1280, fps=24
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4787; Thread with name:WebRtc_event_timer_thread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; startCapture: startCapture success
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; RequestEncodeKeyFrame
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; doStartLocalRender: init? 1 capture id -1 device 1024 capturing? 1 rendering? 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; Recording JoinEvent Argus report.......
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:506 |    0)   4772; [ap/u] **responsed from 54.223.118.211:25000, TDS(64).
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:511 |    5)   4772; [ch0] rtt: 8
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:512 |    1)   4772; [rlbs/u] responsed from 52.80.192.229:9700 with servers 103.104.168.245:8913
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:512 |    0)   4772; [rs] updateServers 103.104.168.245:8913, priority 3
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:512 |    0)   4772; [rs] updateServers 128.1.33.168:8913, priority 3
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:512 |    0)   4772; [rs] updateServers 45.40.48.11:8913, priority 3
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:534 |   22)   4772; [vocs/u] **responsed from 54.223.118.211:1080, 3 vos, elapsed 132, server ts 1555038016504, wan ip 47******248
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:539 |    5)   4772; [dns] parsed ip 128.1.33.166
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:539 |    0)   4772; [dns] parsed ip 199.190.44.37
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:539 |    0)   4772; [rs] dns parse result code: 0, servers size: 2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:539 |    0)   4772; [rs] updateServers 128.1.33.166:8000, priority 2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:539 |    0)   4772; [rs] updateServers 199.190.44.37:8000, priority from 1 to 2
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:549 |   10)   4785; [che] onVideoSizeChanged: uid 0 720x1280 rotate 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:550 |    1)   4784; VQC module init done. stream no 0, mode 0, structure 257, scenario 512, preference 0, preferEnableVQC 1.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:550 |    0)   4784; Encoder rc method 3
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:571 |   21)   4772; [ap/u] **responsed from 106.14.12.130:1080, TDS(64).
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:580 |    9)   4772; [ap/u] **responsed from 106.14.12.130:1080, STUN(2).
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:599 |   19)   4772; [ap/u] **responsed from 106.14.12.130:1080, CDS(8).
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:660 |   61)   4772; [vocs/u] **responsed from 52.58.56.244:8000, 3 vos, elapsed 258, server ts 1555038016493, wan ip 47******248
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:677 |   17)   4772; [ap/u] **responsed from 54.223.118.211:25000, STUN(2).
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:722 |   45)   4772; audio setPeerAudioMuteStatus: uid 3434545944 muted 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:722 |    0)   4772; video setPeerVideoMuteStatus: uid 3434545944 muted 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:722 |    0)   4772; [pm] peer 3434545944 is online
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1142: offset 320ms: 3434545944 joined the channel
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:722 |    0)   4773; offset 320ms: 3434545944 joined the channel
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/legacy_codec/media_file_legacy.cpp:867: LegacyMediaFile::UpdateUserOfflineStatePerJoinuid=3434545944,IsUserOffline_=0
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/peer_stream.cpp:196: status changed uid:3434545944 isMuteVideo:0 enabledVideo:1 enabledLocalVideo:1 online:1
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/peer_stream.cpp:199: status changed uid:3434545944 isMuteAudio:0 enabledAudio:1 enabledLocalAudio:1 online:1
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/rtmp_renderer.cpp:1024: User 3434545944 joined
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1549: User 3434545944 request 0 stream
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:722 |    0)   4763; User 3434545944 request 0 stream
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/layout_encoder.cpp:127:   user 0: uid 3434545944 x/y 0.000000/0.000000 width/height 1.000000/1.000000 alpha 1.000000 render mode 2
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:732: write_packet: encodedlayout size: 43
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1659: SET_VIDEO_MIXING_LAYOUT_URI
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:724 |    2)   4763; SET_VIDEO_MIXING_LAYOUT_URI
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:724 |    0)   4763; Layout: { client ms: 0, canvas: { width: 720, height: 1280, bgnd: 0 }, Regions: [ -860421352, x: 0, y: 0, width: 1, height: 1, alpha: 255, render_mode: 2, zorder: NotSet}]
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/rtmp_renderer.cpp:1234: layout.region_count:1
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1648: set mixing video layout count: 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:724 |    0)   4763; set mixing video layout count: 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:724 |    0)   4772; notifyPeerCount: cnt 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:724 |    0)   4772; onFirstRemoteAudioFrame uid 3434545944 codec 122 elapsed 322
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1252: onFirstRemoteAudioFrame User 3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:724 |    0)   4773; onFirstRemoteAudioFrame User -860421352
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:724 |    0)   4772; onTracerFirstRemoteAudio uid 3434545944 codec 122 elapsed 322
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:725 |    1)   4772; audio jitterbuffer new smooth
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:725 |    0)   4772; [rp] {"rtc.video.set_remote_video_stream":{"uid":3434545944,"stream":0},"che.video.setstream":{"uid":3434545944,"stream":0}}
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:731 |    6)   4772; [pm] peer 3434545944 has enabled video
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1324: User 3434545944 enabled video 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:731 |    0)   4773; User 3434545944 enabled video 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:731 |    0)   4772; video setPeerVideoMuteStatus: uid 3434545944 muted 1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:731 |    0)   4772; onTracerFirstRemoteVideo uid 3434545944 codec 1 elapsed 329
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:731 |    0)   4772; Recording scene, delay in parameter 1000, delay in options 1000.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:732 |    1)   4772; setNetEQMinimumPlayoutDelay delay(1000)
+AgoraCoreService[4763]: (4763): WARN    (11: 0:16:732 |    0)   4772; Failed to set video minimum delay for user:3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:732 |    0)   4772; [videostream] created: uid(3434545944), type(0)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:732 |    0)   4772; [miaokai] Received 1st packet of stream 0, from uid 3434545944, frame number 4294967295.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:732 |    0)   4772; Create participant 3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:732 |    0)   4772; Codec: VP8, Payload type 100, Height 360, Width 640, Bitrate 200,Framerate 15.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:732 |    0)   4772; Codec: H264, Payload type 107, Height 360, Width 640, Bitrate 200,Framerate 15.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:732 |    0)   4772; Recording SDK minimum delay 1000, default delay 400.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:16:732 |    0)   4788; Thread with name:VideoDecodingThread started 
+AgoraCoreService[4763]: (4763): INFO    (11: 0:17:622 |    0)   4772; [miaokai] Assembled 1st frame from stream 0.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:17:732 |  110)   4772; Recording scene, delay in parameter 1000, delay in options 1000.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:17:732 |    0)   4772; setNetEQMinimumPlayoutDelay delay(1000)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:  7 |    0)   4778; The active speaker is changed to (3434545944)
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1315: onActiveSpeaker uid: 3434545944
+AgoraCoreService[4763]: (4763): WARN    (11: 0:18:523 |  516)   4788; first frame (ts 298151157 type 3) hand over to decoder directly, not to buffer it
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:523 |    0)   4788; [miaokai] Decoded 1st frame from stream 0.
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:543 |   20)   4788; [che] onVideoSizeChanged: uid 3434545944 1280x720 rotate 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:546 |    3)   4772; [MIO] updateRemoteRenderer for uid(3434545944) with render((nil)), type(1)
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:546 |    0)   4772; CreateVideoReceiveTrack: uid=3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:546 |    0)   4772; CreateAgoraDefaultRender
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:546 |    0)   4772; VideoReceiveTrackImpl::UpdateRenderer, track_id=-860421352, renderer=0x7f3af807dc60
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:546 |    0)   4772; CreateVideoRenderer: interface=0x7f3af807dc60
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:546 |    0)   4772; doStartRemoteRender: uid 3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:546 |    0)   4772; doStartRemoteRender: uid 3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:546 |    0)   4772; onRemoteFirstFrameDecoded user 3434545944 resolution 1280 * 720, elapsed 2144
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1235: onFirstRemoteVideoDecoded User 3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 0:18:546 |    0)   4773; onFirstRemoteVideoDecoded User -860421352
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:646: session is receiving audio 
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:756: [Wrapper] channel id: 111111 packet stats, total: 0, callback_->AudioFrameReceived: pcmPackets: 0, pcmTotalPackets: 0, aacPackets: 0, yuvF2Packets: 0, h264F2Packets: 0, errPackets: 0, otherPackets: 0
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:661: session is receiving video 
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:676: trigger receiving stream status changed
+AgoraCoreService[4763]: (4763): INFO    (11: 0:19:522 |    0)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/codec/AVEncoder.cpp:241: sid: 0 audio encoder init. sample_rate: 48000, sample format: 8, channels: 1, bitrate: 46000, frame_size: 1024
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/codec/AVEncoder.cpp:247: sid: 0 audio format is different from codec support format, use resampler.
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/codec/AVEncoder.cpp:263: sid: 0 audio nb_samples is different from codec require samples, use audio fifo.
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/codec/AVRecoder.cpp:47: New mixing record file:./20190412/111111_030016_387279086//0_20190412030020538.mp4
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/codec/AVRecoder.cpp:101: MixingRecorder::Push:1
+AgoraCoreService[4763]: (4763): INFO    (11: 0:21:403 |    0)   4772; [rs] **report stats: seq: 63, report list size 0, tx/rx: 10147/3024, cache size: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:22:498 |   95)   4778; Audio statistics - play count: playout count = 199  signal level: far_in = 112
+AgoraCoreService[4763]: (4763): INFO    (11: 0:22:508 |   10)   4778; Audio statistics - rec count: record count = 200 signal level: near_in = 0, near_out = 0 encode_in = 112
+AgoraCoreService[4763]: (4763): INFO    (11: 0:22:512 |    4)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763): INFO    (11: 0:25:522 |   10)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763): INFO    (11: 0:28:530 |    8)   4772; bypass setCodec, override state is in force
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:756: [Wrapper] channel id: 111111 packet stats, total: 0, callback_->AudioFrameReceived: pcmPackets: 0, pcmTotalPackets: 0, aacPackets: 0, yuvF2Packets: 0, h264F2Packets: 0, errPackets: 0, otherPackets: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:31:524 |    0)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:712: [ARS/15s]event cnts:6, audio pkts:0, mix audio pkts:0, yuv video pkts:0, h264 video pkts:0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:32:122 |    0)   4763; [ARS/15s]event cnts:6, audio pkts:0, mix audio pkts:0, yuv video pkts:0, h264 video pkts:0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:34:516 |  394)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763): INFO    (11: 0:36:498 |    0)   4778; Audio statistics - play count: playout count = 600  signal level: far_in = 111
+AgoraCoreService[4763]: (4763): INFO    (11: 0:36:508 |   10)   4778; Audio statistics - rec count: record count = 600 signal level: near_in = 0, near_out = 0 encode_in = 111
+AgoraCoreService[4763]: (4763): INFO    (11: 0:37:512 |    4)   4772; bypass setCodec, override state is in force
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:756: [Wrapper] channel id: 111111 packet stats, total: 0, callback_->AudioFrameReceived: pcmPackets: 0, pcmTotalPackets: 0, aacPackets: 0, yuvF2Packets: 0, h264F2Packets: 0, errPackets: 0, otherPackets: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:40:511 |    0)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763): INFO    (11: 0:43:522 |   11)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763): INFO    (11: 0:46:511 |    0)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:712: [ARS/15s]event cnts:0, audio pkts:0, mix audio pkts:0, yuv video pkts:0, h264 video pkts:0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:47:197 |    0)   4763; [ARS/15s]event cnts:0, audio pkts:0, mix audio pkts:0, yuv video pkts:0, h264 video pkts:0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:48:416 |  219)   4772; **CALL STATS: duration 29s cpu app/total 42.40/40.0 battery 255 tx/rx: 3/1.246K kbps 23.158K/4.501M bytes
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:756: [Wrapper] channel id: 111111 packet stats, total: 0, callback_->AudioFrameReceived: pcmPackets: 0, pcmTotalPackets: 0, aacPackets: 0, yuvF2Packets: 0, h264F2Packets: 0, errPackets: 0, otherPackets: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:49:525 |  109)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763): INFO    (11: 0:52:198 |    0)   4772; [rs] **report stats: seq: 104, report list size 0, tx/rx: 16033/4992, cache size: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 0:52:522 |  324)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763): INFO    (11: 0:54:498 |    0)   4778; Audio statistics - play count: playout count = 600  signal level: far_in = 108
+AgoraCoreService[4763]: (4763): INFO    (11: 0:54:508 |   10)   4778; Audio statistics - rec count: record count = 600 signal level: near_in = 0, near_out = 0 encode_in = 108
+AgoraCoreService[4763]: (4763): INFO    (11: 0:55:512 |    4)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763): INFO    (11: 0:57:597 |   85)   4784; VCMEncodedFrameCallback::Encoded frame 1001
+AgoraCoreService[4763]: (4763): INFO    (11: 0:57:641 |   44)   4784; VCMEncodedFrameCallback::Encoded frame 1002
+AgoraCoreService[4763]: (4763): INFO    (11: 0:57:683 |   42)   4784; VCMEncodedFrameCallback::Encoded frame 1003
+AgoraCoreService[4763]: (4763): INFO    (11: 0:57:723 |   40)   4784; VCMEncodedFrameCallback::Encoded frame 1004
+AgoraCoreService[4763]: (4763): INFO    (11: 0:57:764 |   41)   4784; VCMEncodedFrameCallback::Encoded frame 1005
+AgoraCoreService[4763]: (4763): INFO    (11: 0:57:804 |   40)   4784; VCMEncodedFrameCallback::Encoded frame 1006
+AgoraCoreService[4763]: (4763): INFO    (11: 0:57:844 |   40)   4784; VCMEncodedFrameCallback::Encoded frame 1007
+AgoraCoreService[4763]: (4763): INFO    (11: 0:57:893 |   49)   4784; VCMEncodedFrameCallback::Encoded frame 1008
+AgoraCoreService[4763]: (4763): INFO    (11: 0:57:927 |   34)   4784; VCMEncodedFrameCallback::Encoded frame 1009
+AgoraCoreService[4763]: (4763): INFO    (11: 0:57:967 |   40)   4784; VCMEncodedFrameCallback::Encoded frame 1010
+AgoraCoreService[4763]: (4763): INFO    (11: 0:58:  7 |    0)   4784; VCMEncodedFrameCallback::Encoded frame 1011
+AgoraCoreService[4763]: (4763): INFO    (11: 0:58: 50 |   43)   4784; VCMEncodedFrameCallback::Encoded frame 1012
+AgoraCoreService[4763]: (4763): INFO    (11: 0:58: 91 |   41)   4784; VCMEncodedFrameCallback::Encoded frame 1013
+AgoraCoreService[4763]: (4763): INFO    (11: 0:58:130 |   39)   4784; VCMEncodedFrameCallback::Encoded frame 1014
+AgoraCoreService[4763]: (4763): INFO    (11: 0:58:173 |   43)   4784; VCMEncodedFrameCallback::Encoded frame 1015
+AgoraCoreService[4763]: (4763): INFO    (11: 0:58:212 |   39)   4784; VCMEncodedFrameCallback::Encoded frame 1016
+AgoraCoreService[4763]: (4763): INFO    (11: 0:58:255 |   43)   4784; VCMEncodedFrameCallback::Encoded frame 1017
+AgoraCoreService[4763]: (4763): INFO    (11: 0:58:298 |   43)   4784; VCMEncodedFrameCallback::Encoded frame 1018
+AgoraCoreService[4763]: (4763): INFO    (11: 0:58:335 |   37)   4784; VCMEncodedFrameCallback::Encoded frame 1019
+AgoraCoreService[4763]: (4763): INFO    (11: 0:58:512 |  177)   4772; bypass setCodec, override state is in force
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:756: [Wrapper] channel id: 111111 packet stats, total: 0, callback_->AudioFrameReceived: pcmPackets: 0, pcmTotalPackets: 0, aacPackets: 0, yuvF2Packets: 0, h264F2Packets: 0, errPackets: 0, otherPackets: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 1:512 |    0)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:712: [ARS/15s]event cnts:0, audio pkts:0, mix audio pkts:0, yuv video pkts:0, h264 video pkts:0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 2:274 |    0)   4763; [ARS/15s]event cnts:0, audio pkts:0, mix audio pkts:0, yuv video pkts:0, h264 video pkts:0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 4:512 |  238)   4772; bypass setCodec, override state is in force
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 7:524 |   12)   4772; bypass setCodec, override state is in force
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:807: API call to stopped on error not in event loop thread
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:840: API call to leave channel not in event loop thread
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:756: [Wrapper] channel id: 111111 packet stats, total: 0, callback_->AudioFrameReceived: pcmPackets: 0, pcmTotalPackets: 0, aacPackets: 0, yuvF2Packets: 0, h264F2Packets: 0, errPackets: 0, otherPackets: 0
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:87: Recorder 3baddd0 is ready to be release
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:1597: event_loop Required to stop :0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:340 |    0)   4763; event_loop Required to stop :0
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:601: Before cleanup cnt 1, errno 11 4, joined_ 1, term_sig 0, leave path code 16
+AgoraCoreService[4763]: (4763): WARN    (11: 1: 9:340 |    0)   4763; Before cleanup cnt 1, errno 11 4, joined_ 1, term_sig 0, leave path code 16
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:147: Leaving channel and ready to cleanup
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:341 |    1)   4763; Leaving channel and ready to cleanup
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:341 |    0)   4772; Recording LeaveEvent Argus report.......
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:341 |    0)   4772; [rp] {"rtc.audio.mute_peers":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:341 |    0)   4772; [ds]: ver 2 ds '{"streamType":4,"clientRole":2}'
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:341 |    0)   4772; [ch0] sync (cid:1415424096, uid:143919224, sync:2): 45.40.48.10:4003
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:341 |    0)   4772; audio setPeerAudioMuteStatus: uid 3434545944 muted 1
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:341 |    0)   4772; [rp] {"rtc.video.mute_peers":true}
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:341 |    0)   4772; Recording scene, delay in parameter 1000, delay in options 1000.
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:341 |    0)   4772; setNetEQMinimumPlayoutDelay delay(1000)
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:341 |    0)   4772; [videostream] created: uid(3434545944), type(0)
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:342 |    1)   4772; video setPeerVideoMuteStatus: uid 3434545944 muted 1
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:342 |    0)   4772; reset video recevier for user -860421352
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/peer_stream.cpp:278: engine stop video record uid:0
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/peer_stream.cpp:256: engine stop audio record uid:0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:342 |    0)   4763; API call to leave channel
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:343 |    1)   4772; [cm] emit leave channel signal
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:343 |    0)   4772; stopLocalRender
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:343 |    0)   4772; stopLocalRender success
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:343 |    0)   4772; AgoraVideoInput::Stop
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:343 |    0)   4772; AgoraVideoInput::Destroy
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:424 |   81)   4772; stopCapture: stopCapture success
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:424 |    0)   4772; [rtpSender] set paced sender status 0.
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:424 |    0)   4772; stopRemoteRender
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:424 |    0)   4772; stopRemoteVideo: uid=3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:436 |   12)   4772; [che] stopCall begins
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/peer_stream.cpp:256: engine stop audio record uid:0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:436 |    0)   4772; StopRecording complete
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:436 |    0)   4772; StopPlayout complete
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:436 |    0)   4772; [che] stop call returns 0, elapsed 1
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:436 |    0)   4772; [rs] **report stats: seq: 132, report list size 7, tx/rx: 20056/6000, cache size: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:436 |    0)   4772; [cm] connection state changed from 3 to 1
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:436 |    0)   4772; **CALL STATS: duration 52s, tx 34.99K bytes, rx 7.997M bytes, total 8.7M bytes
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:436 |    0)   4772; CacheManager: save cache to storage elapsed 0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:436 |    0)   4772; [ch0] vos destroyed
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    1)   4772; delRef of media engine, ref=0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; [che] chat engine destroying
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; stopLocalRender
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; stopLocalRender success
+AgoraCoreService[4763]: (4763): WARN    (11: 1: 9:437 |    0)   4772; stopCapture: VideoEngine haven't startCapture
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; stopRemoteRender
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; stopRemoteVideo: uid=3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; [che] stopCall begins
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; [che] stop call returns -1, elapsed 0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; DestroyVideoReceiveTrack: uid=3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; VideoReceiveTrackImpl::UpdateRenderer, track_id=-860421352, renderer=(nil)
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; CreateVideoRenderer: interface=(nil)
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; stopLocalRender
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; stopLocalRender success
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; stopRemoteRender
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:437 |    0)   4772; stopRemoteVideo: uid=3434545944
+AgoraCoreService[4763]: (4763): WARN    (11: 1: 9:437 |    0)   4772; stopCapture: VideoEngine haven't startCapture
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:438 |    1)   4772; PipelineManager::SetDest  engine = (nil)
+AgoraCoreService[4763]: (4763): WARN    (11: 1: 9:438 |    0)   4772; terminate: VideoEngine haven't init
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:438 |    0)   4772; [DEBUGG] ViERenderManager Destructor, engine_id: 0
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:438 |    0)   4772; Delete participant 3434545944
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:438 |    0)   4772; AgoraCameraCapture::Dispose
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:438 |    0)   4772; VideoSendTrackImpl::UpdateCapturer capturer=(nil)
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:438 |    0)   4772; CreateVideoCapturer: interface=(nil)
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:438 |    0)   4772; VideoSendTrackImpl::UpdateRenderer, renderer=(nil)
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:438 |    0)   4772; CreateVideoRenderer: interface=(nil)
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:439 |    1)   4772; [che] chat engine destroyed
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:439 |    0)   4772; ***CALL END
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:439 |    0)   4772; [cc] setLocalMuteAudioState: false, priority: 4
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:439 |    0)   4772; [cc] setLocalMuteVideoState: false, priority: 4
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:439 |    0)   4772; onAudioStatusChanged enable audio
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:439 |    0)   4772; [MIO] media io controller destroyed
+AgoraCoreService[4763]: (4763): INFO    (11: 1: 9:439 |    0)   4763; async task worker thread exited gracefully
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/event_handler.cpp:126: event handler delete timer
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/legacy_codec/media_file_legacy.cpp:76: ~LegacyMediaFile
+AgoraCoreService[4763]: (4763) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/core_service/legacy_codec/media_file_legacy.cpp:76: ~LegacyMediaFile
+node[4752]: (4752) /var/lib/jenkins/workspace/agora-release-linux-2/ServerSDK-Video/src/rec_engine/RecordingEngineImpl.cpp:110: Recording wrapper delete timer
